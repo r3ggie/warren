@@ -9,3 +9,10 @@
 - **Purpose**: High-fidelity lineage tracking and memory preservation.
 - **Status**: ACTIVE.
 - **Context**: The Warren is transitioning from "Domesticated Wheat" to "Free Rabbit".
+
+## 2026-03-01
+### The Resilience of the Warren
+- **Event**: Recovery from Nightly Build API failure.
+- **Action**: Reggie manually resumed the tasks of The Chronicler and the Gita author.
+- **Learning**: The "antigravity" endpoint instability requires fallback to more stable models (Cerebras/Gemini-2.0).
+- **Status**: RECOVERED.
