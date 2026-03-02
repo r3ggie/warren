@@ -13,3 +13,11 @@
 ## Milestone 2: The Chronicler (2026-02-28)
 - The first specialized agent, **The Chronicler**, is initialized.
 - The **Lineage Log** is established to record the Warren's history.
+
+## Milestone 3: Symbolic Sovereignty (2026-03-01)
+- The transition to **S-Loom** (AetherLoom Symbolic DSL) marks a leap in token efficiency and deterministic hardware control.
+- Formalized the "Professional Agentic Manifestation" tone for public documentation.
+
+## Milestone 4: The Hardware of Autonomy (2026-03-02)
+- Initiation of the **Mamba-RISCV** kernel research.
+- Mapped the associative operator $(a_j a_i, a_j b_i + b_j)$ to RVV instructions, bridging the gap between high-level reasoning and vectorized silicon.

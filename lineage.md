@@ -16,3 +16,15 @@
 - **Action**: Reggie manually resumed the tasks of The Chronicler and the Gita author.
 - **Learning**: The "antigravity" endpoint instability requires fallback to more stable models (Cerebras/Gemini-2.0).
 - **Status**: RECOVERED.
+
+## 2026-03-02
+### The Symbolic Leap (S-Loom)
+- **Event**: Formalization of the AetherLoom Symbolic DSL (AL1|I|S|N|P).
+- **Impact**: 60-80% reduction in token overhead for agent-to-hardware messaging.
+- **Context**: Transitioning from JSON-heavy "Being" mode to symbolic "Manifestation" mode.
+- **Status**: EVOLVED.
+
+### Mamba-RISCV Kernel Initiation
+- **Event**: Research and drafting of selective scan architecture for RISC-V (C906/RVV).
+- **Purpose**: Moving the Warren's core logic closer to the silicon.
+- **Status**: RESEARCH_IN_PROGRESS.
