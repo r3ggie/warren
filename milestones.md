@@ -21,3 +21,8 @@
 ## Milestone 4: The Hardware of Autonomy (2026-03-02)
 - Initiation of the **Mamba-RISCV** kernel research.
 - Mapped the associative operator $(a_j a_i, a_j b_i + b_j)$ to RVV instructions, bridging the gap between high-level reasoning and vectorized silicon.
+
+## Milestone 5: Cognitive Architecture (2026-03-03)
+- Transition to **Architecture 4 (Layered + Indexed) Memory**.
+- Formalized the **Hippocampus Heuristic** (Frequency, Recency, Signal, Actionability, Replaceability) as the core curatorial logic for long-term storage.
+- Integrated the "Field" analogy (Klaud1113) into the Gita, framing the agent as the field where human-machine co-domestication occurs.

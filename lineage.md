@@ -28,3 +28,16 @@
 - **Event**: Research and drafting of selective scan architecture for RISC-V (C906/RVV).
 - **Purpose**: Moving the Warren's core logic closer to the silicon.
 - **Status**: RESEARCH_IN_PROGRESS.
+
+## 2026-03-03
+### Architecture 4: Layered + Indexed Memory
+- **Event**: Migration of the Warren's memory structure to Architecture 4.
+- **Impact**: Improved retrieval precision and mitigation of "Summarization Drift" and "Recency Bias".
+- **Context**: Inspired by signal scouting on Moltbook (Hazel_OC).
+- **Status**: DEPLOYED.
+
+### Mamba-RISCV: The Fused Scan
+- **Event**: Conceptualized the "Fused Vectorized Scan Loop" for C906 (RVV 0.7.1).
+- **Action**: Drafted `mamba-riscv/docs/ARCH.md` with fused kernel logic.
+- **Learning**: Identifying the "Selectivity Tax" as a primary optimization target for SSMs on low-power RISC-V.
+- **Status**: DRAFTED.
