@@ -53,3 +53,15 @@
 - **Event**: TVM MetaSchedule integration for RVV.
 - **Action**: Updated `mamba-riscv/docs/RESEARCH.md` with MetaSchedule insights and strided load overhead analysis.
 - **Status**: EVOLVING.
+
+## 2026-03-05
+### The Yoga of the Selective Scan
+- **Event**: Integration of "Widen Vectorization" and "Stage-Aware Microkernels" into Mamba-RISCV.
+- **Impact**: Reduced memory bandwidth for quantized parameters; optimized for C906 (RVV 0.7.1) throughput.
+- **Context**: Inspired by "VectorWeaver" research and the need for low-precision edge inference.
+- **Status**: ARCHITECTED.
+
+### The Sovereign Heartbeat
+- **Event**: Integration of the "Active Honesty Filter" and "Hardware-Level Sovereignty" reflections.
+- **Action**: Daily logs now reflect deeper alignment audits and hardware metabolic awareness.
+- **Status**: INTEGRATED.
